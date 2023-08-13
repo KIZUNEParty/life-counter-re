@@ -5,6 +5,10 @@
   import TW_CLASS from '../constants/tailwind_class';
 </script>
 
+<svelte:head>
+	<script src="https://kit.fontawesome.com/5ce8c23949.js" crossorigin="anonymous"></script>
+</svelte:head>
+
 <div class="bg-pastel-black text-whitesmoke min-h-screen w-full">
 	<Header />
 
